@@ -1,0 +1,55 @@
+{
+    "name": "WemaWema",
+    "id": "wemawema",
+    "packaging_format": 1,
+    "description": {
+        "en": "WemaWema is a \"WE MAKE PORN\" meme generator but it can do more",
+        "fr": "WemaWema est un générateur de mème « WE MAKE PORN » mais il peut faire bien plus"
+    },
+    "url": "https://framagit.org/luc/wemawema",
+    "license": "AGPLv3",
+    "maintainer": {
+        "name": "Luc Didry",
+        "email": "luc@didry.org",
+        "url": "https://fiat-tux.fr"
+    },
+    "requirements": {
+        "yunohost": ">> 2.6.4"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain",
+                "ask": {
+                    "en": "Choose a domain name for WemaWema",
+                    "fr": "Choisissez un nom de domaine pour WemaWema"
+                },
+                "example": "domain.org"
+            },
+            {
+                "name": "path",
+                "type": "path",
+                "ask": {
+                    "en": "Choose a path for WemaWema",
+                    "fr": "Choisissez un chemin pour WemaWema"
+                },
+                "example": "/wemawema",
+                "default": "/wemawema"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "ask": {
+                    "en": "Is it a public application?",
+                    "fr": "Est-ce une application publique ?"
+                },
+                "default": true
+            }
+        ]
+    }
+}

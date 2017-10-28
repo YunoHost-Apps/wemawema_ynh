@@ -1,0 +1,6 @@
+SOURCE_URL=https://framagit.org/luc/wemawema/repository/24.0/archive.tar.gz
+SOURCE_SUM=4875ba61492a5b8178441ead3066fcf8cf1480daa38ee5c7da70c370b3c29118
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
