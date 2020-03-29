@@ -1,5 +1,7 @@
 # WemaWema app for YunoHost
 
+[![Integration level](https://dash.yunohost.org/integration/wemawema.svg)](https://dash.yunohost.org/appci/app/wemawema) ![](https://ci-apps.yunohost.org/ci/badges/wemawema.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/wemawema.maintain.svg)
+
 - [Yunohost project](https://yunohost.org)
 - [WemaWema website](https://luc.frama.io/wemawema)
 - [WemaWema git repository](https://framagit.org/luc/wemawema)
