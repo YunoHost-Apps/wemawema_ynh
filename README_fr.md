@@ -9,7 +9,7 @@
 Si vous n'avez pas YunoHost, consultez [le guide](https://yunohost.org/#/install) pour apprendre comment l'installer.*
 
 ## Vue d'ensemble
-WemaWema est un générateur de memes *WE MAKE PORN*.
+WemaWema est un générateur de mèmes *WE MAKE PORN*.
 
 **Version incluse :** 26.1
 
