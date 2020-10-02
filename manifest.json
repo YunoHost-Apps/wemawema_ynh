@@ -3,18 +3,19 @@
     "id": "wemawema",
     "packaging_format": 1,
     "description": {
-        "en": "WemaWema is a \"WE MAKE PORN\" meme generator but it can do more",
-        "fr": "WemaWema est un générateur de mème « WE MAKE PORN » mais il peut faire bien plus"
+        "en": "\"WE MAKE PORN\" meme generator but it can do more.",
+        "fr": "Générateur de mème « WE MAKE PORN » mais il peut faire bien plus."
     },
+    "version": "26.1~ynh1",
     "url": "https://framagit.org/luc/wemawema",
-    "license": "AGPLv3",
+    "license": "AGPL-3.0-only",
     "maintainer": {
         "name": "Luc Didry",
         "email": "luc@didry.org",
         "url": "https://fiat-tux.fr"
     },
     "requirements": {
-        "yunohost": ">> 2.6.4"
+        "yunohost": ">> 3.8.0"
     },
     "multi_instance": true,
     "services": [
