@@ -15,7 +15,7 @@
         "url": "https://fiat-tux.fr"
     },
     "requirements": {
-        "yunohost": ">> 3.8.0"
+        "yunohost": ">> 3.8.1"
     },
     "multi_instance": true,
     "services": [
