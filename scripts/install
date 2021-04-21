@@ -71,7 +71,9 @@ ynh_add_nginx_config
 #=================================================
 
 # Set permissions to app files
-chown -R www-data: $final_path
+chmod 750 "$final_path"
+chmod -R o-rwx "$final_path"
+chown -R root: "$final_path"
 
 #=================================================
 # SETUP SSOWAT

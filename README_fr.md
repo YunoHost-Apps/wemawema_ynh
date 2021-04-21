@@ -35,8 +35,8 @@ WemaWema est un générateur de mèmes *WE MAKE PORN*.
 
 #### Architectures supportées
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/wemawema%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/wemawema/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/wemawema%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/wemawema/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/wemawema.svg)](https://ci-apps.yunohost.org/ci/apps/wemawema/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/wemawema.svg)](https://ci-apps-arm.yunohost.org/ci/apps/wemawema/)
 
 ## Limitations
 
