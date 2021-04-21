@@ -72,7 +72,6 @@ ynh_add_nginx_config
 
 # Set permissions to app files
 chmod 750 "$final_path"
-chmod -R o-rwx "$final_path"
 chown -R root: "$final_path"
 
 #=================================================
