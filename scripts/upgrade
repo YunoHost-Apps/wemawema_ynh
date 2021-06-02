@@ -71,6 +71,10 @@ then
 	ynh_setup_source --dest_dir="$final_path"
 fi
 
+# Set right permissions for curl installation
+chmod 750 $final_path
+chown -R www-data: $final_path
+
 #=================================================
 # NGINX CONFIGURATION
 #=================================================
@@ -80,6 +84,7 @@ ynh_script_progression --message="Upgrading NGINX web server configuration..." -
 ynh_add_nginx_config
 
 #=================================================
+<<<<<<< Updated upstream
 # GENERIC FINALIZATION
 #=================================================
 # SECURE FILES AND DIRECTORIES
@@ -89,6 +94,8 @@ ynh_add_nginx_config
 chown -R www-data: $final_path
 
 #=================================================
+=======
+>>>>>>> Stashed changes
 # RELOAD NGINX
 #=================================================
 ynh_script_progression --message="Reloading NGINX web server..." --weight=1

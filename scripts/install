@@ -56,6 +56,10 @@ ynh_app_setting_set --app=$app --key=final_path --value=$final_path
 # Download, check integrity, uncompress and patch the source from app.src
 ynh_setup_source --dest_dir="$final_path"
 
+# Set permissions to app files
+chmod 750 $final_path
+chown -R www-data: $final_path
+
 #=================================================
 # NGINX CONFIGURATION
 #=================================================
@@ -65,6 +69,7 @@ ynh_script_progression --message="Configuring NGINX web server..." --weight=3
 ynh_add_nginx_config
 
 #=================================================
+<<<<<<< Updated upstream
 # GENERIC FINALIZATION
 #=================================================
 # SECURE FILES AND DIRECTORIES
@@ -74,6 +79,8 @@ ynh_add_nginx_config
 chown -R www-data: $final_path
 
 #=================================================
+=======
+>>>>>>> Stashed changes
 # SETUP SSOWAT
 #=================================================
 ynh_script_progression --message="Configuring permissions..." --weight=2
