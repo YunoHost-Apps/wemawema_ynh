@@ -69,16 +69,6 @@ ynh_script_progression --message="Configuring NGINX web server..." --weight=3
 ynh_add_nginx_config
 
 #=================================================
-# GENERIC FINALIZATION
-#=================================================
-# SECURE FILES AND DIRECTORIES
-#=================================================
-
-# Set permissions to app files
-chmod 750 $final_path
-chown -R www-data: $final_path
-
-#=================================================
 # SETUP SSOWAT
 #=================================================
 ynh_script_progression --message="Configuring permissions..." --weight=2
