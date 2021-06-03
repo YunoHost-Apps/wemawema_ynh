@@ -91,6 +91,7 @@ ynh_add_nginx_config
 #=================================================
 
 # Set right permissions for curl installation
+chmod 750 $final_path
 chown -R www-data: $final_path
 
 #=================================================
