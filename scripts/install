@@ -69,7 +69,6 @@ ynh_script_progression --message="Configuring NGINX web server..." --weight=3
 ynh_add_nginx_config
 
 #=================================================
-<<<<<<< Updated upstream
 # GENERIC FINALIZATION
 #=================================================
 # SECURE FILES AND DIRECTORIES
@@ -79,8 +78,6 @@ ynh_add_nginx_config
 chown -R www-data: $final_path
 
 #=================================================
-=======
->>>>>>> Stashed changes
 # SETUP SSOWAT
 #=================================================
 ynh_script_progression --message="Configuring permissions..." --weight=2
