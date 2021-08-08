@@ -3,8 +3,8 @@
     "id": "wemawema",
     "packaging_format": 1,
     "description": {
-        "en": "\"WE MAKE PORN\" meme generator but it can do more.",
-        "fr": "Générateur de mème « WE MAKE PORN » mais il peut faire bien plus."
+        "en": "\"WE MAKE PORN\" meme generator but it can do more",
+        "fr": "Générateur de mème « WE MAKE PORN » mais il peut faire bien plus"
     },
     "version": "26.1~ynh3",
     "url": "https://framagit.org/luc/wemawema",

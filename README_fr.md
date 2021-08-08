@@ -11,7 +11,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 ## Vue d'ensemble
 
-Générateur de mème « WE MAKE PORN » mais il peut faire bien plus.
+Générateur de mème « WE MAKE PORN » mais il peut faire bien plus
 
 **Version incluse :** 26.1~ynh3
 
