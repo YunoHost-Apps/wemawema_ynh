@@ -1,6 +1,0 @@
-SOURCE_URL=https://framagit.org/luc/wemawema/-/archive/29.0/wemawema-29.0.tar.gz
-SOURCE_SUM=37e14df73f5d7a312ae3a8d0c7cd302f6645fff483caeaa0d538a6dae1209318
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=

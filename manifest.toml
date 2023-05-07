@@ -1,0 +1,52 @@
+packaging_format = 2
+
+id = "wemawema"
+name = "WemaWema"
+description.en = "\"WE MAKE PORN\" meme generator but it can do more"
+description.fr = "Générateur de mème « WE MAKE PORN » mais il peut faire bien plus"
+
+version = "26.1~ynh4"
+
+maintainers = ["Luc Didry"]
+
+[upstream]
+license = "AGPL-3.0-only"
+demo = "https://framagit.org/luc/wemawema"
+code = "https://framagit.org/luc/wemawema"
+website = "https://framagit.org/luc/wemawema"
+
+[integration]
+yunohost = ">> 11.1.18"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/wemawema"
+
+    [install.init_main_permission]
+    help.en = "If enabled, WemaWema will be accessible by people who do not have an account. This can be changed later via the webadmin."
+    help.fr = "Si cette case est cochée, WemaWema sera accessible aux personnes n’ayant pas de compte. Vous pourrez changer ceci plus tard via la webadmin."
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://framagit.org/luc/wemawema/-/archive/29.0/wemawema-29.0.tar.gz"
+        sha256 = "37e14df73f5d7a312ae3a8d0c7cd302f6645fff483caeaa0d538a6dae1209318"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
