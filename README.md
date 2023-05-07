@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # WemaWema for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/wemawema.svg)](https://dash.yunohost.org/appci/app/wemawema) ![](https://ci-apps.yunohost.org/ci/badges/wemawema.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/wemawema.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/wemawema.svg)](https://dash.yunohost.org/appci/app/wemawema) ![Working status](https://ci-apps.yunohost.org/ci/badges/wemawema.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/wemawema.maintain.svg)
+
 [![Install WemaWema with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wemawema)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -23,23 +24,24 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Screenshots
 
-![](./doc/screenshots/WemaWema.png)
+![Screenshot of WemaWema](./doc/screenshots/WemaWema.png)
 
 ## Documentation and resources
 
-* Upstream app code repository: https://framagit.org/luc/wemawema
-* YunoHost documentation for this app: https://yunohost.org/app_wemawema
-* Report a bug: https://github.com/YunoHost-Apps/wemawema_ynh/issues
+* Upstream app code repository: <https://framagit.org/luc/wemawema>
+* YunoHost documentation for this app: <https://yunohost.org/app_wemawema>
+* Report a bug: <https://github.com/YunoHost-Apps/wemawema_ynh/issues>
 
 ## Developer info
 
 Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/wemawema_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
-```
+
+``` bash
 sudo yunohost app install https://github.com/YunoHost-Apps/wemawema_ynh/tree/testing --debug
 or
 sudo yunohost app upgrade wemawema -u https://github.com/YunoHost-Apps/wemawema_ynh/tree/testing --debug
 ```
 
-**More info regarding app packaging:** https://yunohost.org/packaging_apps
+**More info regarding app packaging:** <https://yunohost.org/packaging_apps>
