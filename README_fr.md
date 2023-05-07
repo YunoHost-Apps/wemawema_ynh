@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Générateur de mème « WE MAKE PORN » mais il peut faire bien plus
 
-**Version incluse :** 26.1~ynh3
+**Version incluse :** 26.1~ynh4
 
 **Démo :** https://framagit.org/luc/wemawema
 
@@ -28,6 +28,7 @@ Générateur de mème « WE MAKE PORN » mais il peut faire bien plus
 
 ## Documentations et ressources
 
+* Site officiel de l’app : <https://framagit.org/luc/wemawema>
 * Dépôt de code officiel de l’app : <https://framagit.org/luc/wemawema>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_wemawema>
 * Signaler un bug : <https://github.com/YunoHost-Apps/wemawema_ynh/issues>
