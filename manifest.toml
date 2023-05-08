@@ -16,7 +16,7 @@ code = "https://framagit.org/luc/wemawema"
 website = "https://framagit.org/luc/wemawema"
 
 [integration]
-yunohost = ">> 11.1.18"
+yunohost = ">= 11.1.18"
 architectures = "all"
 multi_instance = true
 ldap = false
