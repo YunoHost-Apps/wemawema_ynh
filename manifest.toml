@@ -7,7 +7,7 @@ description.fr = "Générateur de mème « WE MAKE PORN » mais il peut faire 
 
 version = "26.1~ynh4"
 
-maintainers = ["Luc Didry"]
+maintainers = []
 
 [upstream]
 license = "AGPL-3.0-only"
