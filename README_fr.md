@@ -30,7 +30,7 @@ Générateur de mème « WE MAKE PORN » mais il peut faire bien plus
 
 * Site officiel de l’app : <https://framagit.org/luc/wemawema>
 * Dépôt de code officiel de l’app : <https://framagit.org/luc/wemawema>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_wemawema>
+* YunoHost Store: <https://apps.yunohost.org/app/wemawema>
 * Signaler un bug : <https://github.com/YunoHost-Apps/wemawema_ynh/issues>
 
 ## Informations pour les développeurs
