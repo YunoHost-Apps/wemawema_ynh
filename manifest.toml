@@ -5,7 +5,7 @@ name = "WemaWema"
 description.en = "\"WE MAKE PORN\" meme generator but it can do more"
 description.fr = "Générateur de mème « WE MAKE PORN » mais il peut faire bien plus"
 
-version = "26.1~ynh4"
+version = "26.1~ynh5"
 
 maintainers = []
 
