@@ -5,7 +5,7 @@ name = "WemaWema"
 description.en = "\"WE MAKE PORN\" meme generator but it can do more"
 description.fr = "Générateur de mème « WE MAKE PORN » mais il peut faire bien plus"
 
-version = "26.1~ynh4"
+version = "26.1~ynh5"
 
 maintainers = []
 
@@ -16,11 +16,14 @@ code = "https://framagit.org/luc/wemawema"
 website = "https://framagit.org/luc/wemawema"
 
 [integration]
-yunohost = ">= 11.1.18"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
+
 ldap = false
+
 sso = false
+
 disk = "50M"
 ram.build = "50M"
 ram.runtime = "50M"
