@@ -46,6 +46,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://framagit.org/luc/wemawema/-/archive/29.0/wemawema-29.0.tar.gz"
         sha256 = "37e14df73f5d7a312ae3a8d0c7cd302f6645fff483caeaa0d538a6dae1209318"
+        autoupdate.strategy = "latest_gitlab_tag"
 
     [resources.system_user]
 
