@@ -18,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 "WE MAKE PORN" meme generator but it can do more
 
-**Shipped version:** 26.1~ynh5
+**Shipped version:** 30.1~ynh1
 
 **Demo:** https://framagit.org/luc/wemawema
 
