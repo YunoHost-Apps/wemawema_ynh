@@ -18,7 +18,7 @@ NON debe editarse manualmente.
 
 
 
-**Versión proporcionada:** 30.1~ynh1
+**Versión proporcionada:** 30.1~ynh2
 
 **Demo:** <https://framagit.org/luc/wemawema>
 

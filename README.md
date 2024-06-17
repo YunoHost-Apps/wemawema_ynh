@@ -18,7 +18,7 @@ It shall NOT be edited by hand.
 
 "WE MAKE PORN" meme generator but it can do more
 
-**Shipped version:** 30.1~ynh1
+**Shipped version:** 30.1~ynh2
 
 **Demo:** <https://framagit.org/luc/wemawema>
 

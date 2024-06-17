@@ -18,7 +18,7 @@ EZ editatu eskuz.
 
 
 
-**Paketatutako bertsioa:** 30.1~ynh1
+**Paketatutako bertsioa:** 30.1~ynh2
 
 **Demoa:** <https://framagit.org/luc/wemawema>
 

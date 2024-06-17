@@ -18,7 +18,7 @@
 
 
 
-**分发版本：** 30.1~ynh1
+**分发版本：** 30.1~ynh2
 
 **演示：** <https://framagit.org/luc/wemawema>
 

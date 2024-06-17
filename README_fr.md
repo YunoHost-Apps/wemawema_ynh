@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Générateur de mème « WE MAKE PORN » mais il peut faire bien plus
 
-**Version incluse :** 30.1~ynh1
+**Version incluse :** 30.1~ynh2
 
 **Démo :** <https://framagit.org/luc/wemawema>
 
