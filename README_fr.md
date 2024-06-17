@@ -18,13 +18,17 @@ Il NE doit PAS être modifié à la main.
 
 Générateur de mème « WE MAKE PORN » mais il peut faire bien plus
 
-**Version incluse :** 30.1~ynh1
+**Version incluse :** 30.1~ynh2
 
 **Démo :** <https://framagit.org/luc/wemawema>
 
 ## Captures d’écran
 
 ![Capture d’écran de WemaWema](./doc/screenshots/WemaWema.png)
+
+## :red_circle: Anti-fonctionnalités
+
+- **Application non maintenue **: Ce logiciel n'est plus maintenu. Attendez-vous à ce qu'il ne fonctionne plus avec le temps, et que l'on découvre des failles de sécurité qui ne seront pas corrigées, etc.
 
 ## Documentations et ressources
 

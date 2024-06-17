@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install WemaWema with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wemawema)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install WemaWema quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -18,13 +18,17 @@ It shall NOT be edited by hand.
 
 "WE MAKE PORN" meme generator but it can do more
 
-**Shipped version:** 30.1~ynh1
+**Shipped version:** 30.1~ynh2
 
 **Demo:** <https://framagit.org/luc/wemawema>
 
 ## Screenshots
 
 ![Screenshot of WemaWema](./doc/screenshots/WemaWema.png)
+
+## :red_circle: Antifeatures
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
 
 ## Documentation and resources
 

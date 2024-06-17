@@ -18,13 +18,17 @@ NON debe editarse manualmente.
 
 
 
-**Versión proporcionada:** 30.1~ynh1
+**Versión proporcionada:** 30.1~ynh2
 
 **Demo:** <https://framagit.org/luc/wemawema>
 
 ## Capturas de pantalla
 
 ![Captura de pantalla de WemaWema](./doc/screenshots/WemaWema.png)
+
+## :red_circle: Debes considerar
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
 
 ## Documentación e recursos
 
