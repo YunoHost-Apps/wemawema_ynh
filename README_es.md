@@ -26,7 +26,7 @@ No se debe editar a mano.
 
 ![Captura de WemaWema](./doc/screenshots/WemaWema.png)
 
-## :red_circle: funcionalidades no deseadas
+## :red_circle: Características no deseables
 
 - **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
 
