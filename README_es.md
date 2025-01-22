@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # WemaWema para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/wemawema.svg)](https://dash.yunohost.org/appci/app/wemawema) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/wemawema.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/wemawema.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/wemawema)](https://ci-apps.yunohost.org/ci/apps/wemawema/)
+![Estado funcional](https://apps.yunohost.org/badge/state/wemawema)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/wemawema)
 
 [![Instalar WemaWema con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wemawema)
 
@@ -16,7 +18,7 @@ No se debe editar a mano.
 
 ## Descripción general
 
-
+WE MAKE PORN meme generator but it can do more.
 
 **Versión actual:** 30.1~ynh2
 
@@ -39,7 +41,7 @@ No se debe editar a mano.
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/wemawema_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/wemawema_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
