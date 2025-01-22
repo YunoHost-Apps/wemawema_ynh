@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # WemaWema YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/wemawema.svg)](https://dash.yunohost.org/appci/app/wemawema) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/wemawema.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/wemawema.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/wemawema)](https://ci-apps.yunohost.org/ci/apps/wemawema/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/wemawema)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/wemawema)
 
 [![Instalatu WemaWema YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wemawema)
 
@@ -16,7 +18,7 @@ EZ editatu eskuz.
 
 ## Aurreikuspena
 
-
+WE MAKE PORN meme generator but it can do more.
 
 **Paketatutako bertsioa:** 30.1~ynh2
 

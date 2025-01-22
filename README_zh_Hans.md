@@ -5,7 +5,9 @@
 
 # YunoHost 上的 WemaWema
 
-[![集成程度](https://dash.yunohost.org/integration/wemawema.svg)](https://dash.yunohost.org/appci/app/wemawema) ![工作状态](https://ci-apps.yunohost.org/ci/badges/wemawema.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/wemawema.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/wemawema)](https://ci-apps.yunohost.org/ci/apps/wemawema/)
+![工作状态](https://apps.yunohost.org/badge/state/wemawema)
+![维护状态](https://apps.yunohost.org/badge/maintained/wemawema)
 
 [![使用 YunoHost 安装 WemaWema](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=wemawema)
 
@@ -16,7 +18,7 @@
 
 ## 概况
 
-
+WE MAKE PORN meme generator but it can do more.
 
 **分发版本：** 30.1~ynh2
 
